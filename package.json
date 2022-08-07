@@ -44,7 +44,6 @@
   },
   "dependencies": {
     "sass": "^1.51.0",
-    "vditor": "^3.8.12",
-    "workbox-window": "^6.5.4"
+    "vditor": "^3.8.12"
   }
 }
